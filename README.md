@@ -1,6 +1,6 @@
 # ![Logo](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/sample/src/main/res/drawable-mdpi/ic_launcher.png) Universal Image Loader [![Build Status](https://travis-ci.org/nostra13/Android-Universal-Image-Loader.svg?branch=master)](https://travis-ci.org/nostra13/Android-Universal-Image-Loader) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.nostra13.universalimageloader/universal-image-loader/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.nostra13.universalimageloader/universal-image-loader)
 
-The great ancestor of modern image-loading libraries :)  
+The great ancestor of modern image-loading libraries :) :) 
 UIL aims to provide a powerful, flexible and highly customizable instrument for image loading, caching and displaying. It provides a lot of configuration options and good control over the image loading and caching process.
 
 ![Screenshot](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png)
